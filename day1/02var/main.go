@@ -12,6 +12,8 @@ var studentName string
 // var age int
 // var isOK bool
 
+
+
 // 批量声明
 var (
 	name string // ""
